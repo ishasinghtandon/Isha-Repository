@@ -1,10 +1,10 @@
 ## Welcome to Isha's GitHub Pages
 
-Student of B.Tech 1st year in Information Technology.
-Aim at Militarry Inteligence.
-And If you are here,you are Isha's friend so Hey!
+## Student of B.Tech 1st year in Information Technology.
+## Aim at Militarry Inteligence.
+## And If you are here,you are Isha's friend so Hey!
 
-You can skip next part,it's all rubbish.
+I'm just happy for my first Gh page,You can skip next part,it's all rubbish.
 
 You can use the [editor on GitHub](https://github.com/ishasinghtandon/Isha-Repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,9 +30,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Contact Isha : email : ishasinghtandon@gmail.com
+Contact Isha : email : [ishasinghtandon@gmail.com]
 
-Thankyou!
+### Thankyou!
 
 ### Jekyll Themes
 
