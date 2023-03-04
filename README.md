@@ -1,2 +1,3 @@
 # Isha-Repository
-My new repository on GitHub.
+My first repository on GitHub.
+Welcome to Isha's Github Space
