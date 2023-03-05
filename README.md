@@ -1,6 +1,4 @@
-# Isha's Repository
-
-Welcome to Isha's Github Space
+# Welcome to Isha's Github Space
 
 
 <h1 align = "center"> Hi, Isha Tandon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
