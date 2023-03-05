@@ -16,8 +16,8 @@ I usually work on **Data Analysing**, **Web Development**, **C** , **Python** an
 ##  👨‍💻 Experience
 - **[Data Science Intern]** at **[CodeClause](https://internship.codeclause.com/)**. 
 - **[Data Science and Business Analytics Intern]** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**.
-- **[HR Intern]** at **[IFORTIS Worldwide]
-- **[Web Development Intern]** at **[Oasis Infobyte]**
+- **[HR Intern]** at **IFORTIS Worldwide**
+- **[Web Development Intern]** at **Oasis Infobyte**
 
   
 ## 🔗 Connect with me:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
