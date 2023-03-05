@@ -1,25 +1,19 @@
-# Isha-Repository
+# Isha's Repository
 
 Welcome to Isha's Github Space
 
 
-<h1 align = "center"> Hi, I'm Himanshu Agarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h1 align = "center"> Hi, Isha Tandon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
+<h3 align="center">I'm a passionate Software Engineer from India.</h3>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Himanshu+Agarwal;I'm+a+Software+Developer.;%E2%9D%A4%EF%B8%8F+Data+Analyst+%7C+Python+Developer;I+%E2%9D%A4%EF%B8%8F+DSA.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+ISHA+TANDON;I'm+a+Software+Developer.;%E2%9D%A4%EF%B8%8F+Data+Analyst+%7C+Web+Developer+%7C+Data+Scientist+%7C+Cpp+Programmer;)](https://git.io/typing-svg)
 </div>
   
   
 ##  🙋‍♂️ About me:
-Hello! I'm Himanshu, a third-year Computer Science student, a data analyst who loves to explore and contribute to the world.
-I usually work on **Data Analysing**, **Web Development**, and **UI/UX Designs**.
-
-I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
-
-- 2x [Kaggle](https://www.kaggle.com/) Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
-- Secretariat at [GDSC-TCET](https://www.gdsctcet.tech/)
-
+Hello! I'm Isha, a Pre-Final year Information Technology student, a data analyst and Scientist who loves to explore.
+I usually work on **Data Analysing**, **Web Development**, **C** , **Python** and **C++**.
 
 ##  👨‍💻 Experience
 - **[Data Science Intern](https://drive.google.com/file/d/1xnRnI0V5B_hLzi1nXBbrkv-TshLG-sqo/view?usp=share_link)** at **[CodeClause](https://internship.codeclause.com/)**. See the [project](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE)
