@@ -16,38 +16,35 @@ Hello! I'm Isha, a Pre-Final year Information Technology student, a data analyst
 I usually work on **Data Analysing**, **Web Development**, **C** , **Python** and **C++**.
 
 ##  👨‍💻 Experience
-- **[Data Science Intern](https://drive.google.com/file/d/1xnRnI0V5B_hLzi1nXBbrkv-TshLG-sqo/view?usp=share_link)** at **[CodeClause](https://internship.codeclause.com/)**. See the [project](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE)
-- **[Data Science and Business Analytics Intern](https://drive.google.com/file/d/1nFCMda1bdLjNZUE_Wc7gBtDdwtULj-i8/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL)
-- **[Data Science Intern](https://drive.google.com/file/d/1PWHhJqs_bZ05yxPs4qEnbiSw2OMWQUzy/view?usp=share_link)** at **[LetsGrowMore](https://letsgrowmore.in/)**. See the [project](https://github.com/himanshu-03/LGMVIP-DataScience)
-- **[Data Science Intern](https://www.linkedin.com/posts/agarwal-himanshu_opportunity-datascience-internship-activity-7034145319512621056-gyDP?utm_source=share&utm_medium=member_desktop)** at **[Innomatics Research Labs](https://www.innomatics.in/)**
+- **[Data Science Intern]** at **[CodeClause](https://internship.codeclause.com/)**. 
+- **[Data Science and Business Analytics Intern]** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**.
+- **[HR Intern]** at **[IFORTIS Worldwide]
+- **[Web Development Intern]** at **[Oasis Infobyte]**
 
   
 ## 🔗 Connect with me:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
-    <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
-     <a href="https://www.kaggle.com/hiimanshuagarwal" target="_blank"><img alt="Kaggle" width="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.facebook.com/profile.php?id=100006757421091" target="_blank"><img alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
-    <a href="https://api.whatsapp.com/send/?phone=%2B919967432086&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>   
+    <a href="https://www.linkedin.com/in/isha-tandon-24602020a/" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.instagram.com/isha.tandon_" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
+  <a href="mailto:ishasinghtandon@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+    <a href="https://api.whatsapp.com/send/?phone=%2B917007747868&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>   
 </p> 
 
 
 ## ©️ Important Links:
 
-- Projects: [github.com/himanshu-03](https://github.com/himanshu-03)
-- Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/in/hiimanshu-agarwal)
-- Kaggle: [kaggle.com/hiimanshuagarwal](https://www.kaggle.com/hiimanshuagarwal)
-- Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1ezkwZcdzHqzjEtQ6gLJnRmRj7liq9YFC/view?usp=share_link)
+- Projects: [github.com/ishasinghtandon](https://github.com/ishasinghtandon)
+- Linkedin: [linkedin.com/isha-tandon-24602020a](https://linkedin.com/in/isha-tandon-24602020a)
+- Resume: [resume/Isha-Tandon](https://drive.google.com/file/d/1DTJZqqV-57ZT1d7ZotMYYpYnzV9Ux9eI/view?usp=sharing)
 
 
 ## 🚀 Skills:
 Domain | Tech Stacks
 -------- | :-------:
-**Web** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
+**Web** | <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
 **Blockchain** | <img src="https://cdn-icons-png.flaticon.com/512/4125/4125334.png" width="40px">
-**Languages** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
-**Databases** | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
+**Languages** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
+**Databases** | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px">
 **Tools** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40px">
 
 
