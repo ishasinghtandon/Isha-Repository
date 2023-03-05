@@ -1,7 +1,7 @@
 # Welcome to Isha's Github Space
 
 
-<h1 align = "center"> Hi, Isha Tandon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
+<h1 align = "center"> Hi,I'm Isha Tandon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
 <h3 align="center">I'm a passionate Software Engineer from India.</h3>
 <div align="center">
 
@@ -50,7 +50,7 @@ Domain | Tech Stacks
 
 <div align = "center">
   
-  [![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishasinghtandon&theme=radical)](https://github.com/himanshu-03/github-readme-stats)
+  [![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishasinghtandon&theme=radical)](https://github.com/ishasinghtandon/github-readme-stats)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-03&theme=radical&line_height=15)](https://github.com/himashu-03/github-readme-stats)
   <br><br>
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=himanshu-03&theme=radical)](https://git.io/streak-stats)
